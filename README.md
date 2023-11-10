@@ -1,6 +1,6 @@
 ## era_v1_session17
 <h2> Description:
- Using Transformer based architecture develop BERT, GPT and ViT models.
+ Using Transformer based architecture train BERT, GPT and ViT models.
 </h2>
 <h4>
 Problem statement:<br/>
